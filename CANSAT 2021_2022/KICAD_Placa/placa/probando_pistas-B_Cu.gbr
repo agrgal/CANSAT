@@ -1,0 +1,47 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.4-6f826c9f35~116~ubuntu20.04.1*%
+%TF.CreationDate,2022-04-02T08:51:48+02:00*%
+%TF.ProjectId,probando_pistas,70726f62-616e-4646-9f5f-706973746173,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.4-6f826c9f35~116~ubuntu20.04.1) date 2022-04-02 08:51:48*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,Conductor*%
+%ADD12C,1.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X0Y0D03*
+D11*
+%TO.P,REF\u002A\u002A,2*%
+X2540000Y0D03*
+%TD*%
+D10*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,N/C*%
+X0Y-5080000D03*
+D11*
+%TO.P,REF\u002A\u002A,2*%
+X2540000Y-5080000D03*
+%TD*%
+D12*
+%TO.N,*%
+X2540000Y0D02*
+X2540000Y-5080000D01*
+X0Y0D02*
+X0Y-5080000D01*
+%TD*%
+M02*

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Proyecto CANSAT A4I" company="IES Seritium" webLink="http://www.seritium.es" view-date="2021-11-01" view-index="0" gantt-divider-location="666" resource-divider-location="300" version="3.1.3103" locale="es_ES">
+    <description>
+        <![CDATA[Diagrama de GANTT del proyecto CANSAT]]>
+    </description>
+    <view zooming-state="default:8" id="gantt-chart">
+        <field id="tpd3" name="Nombre" width="417" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="131" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="114" order="2"/>
+        <timeline>
+            <![CDATA[114,108,102,0]]>
+        </timeline>
+        <option id="color.recent">
+            <![CDATA[#00cccc #3333ff #0000ff #ff3333 #9933ff #ffff00 #006666 #33ff66]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nombre" width="210" order="0"/>
+        <field id="1" name="Función" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+        <date year="" month="1" date="1" type="HOLIDAY">
+            <![CDATA[New Year's Day]]>
+        </date>
+        <date year="" month="1" date="6" type="HOLIDAY">
+            <![CDATA[Epiphany]]>
+        </date>
+        <date year="" month="5" date="1" type="HOLIDAY">
+            <![CDATA[Labour Day]]>
+        </date>
+        <date year="" month="8" date="15" type="HOLIDAY">
+            <![CDATA[Assumption Day]]>
+        </date>
+        <date year="" month="10" date="12" type="HOLIDAY">
+            <![CDATA[Hispanic Day]]>
+        </date>
+        <date year="" month="11" date="1" type="HOLIDAY">
+            <![CDATA[All Saints Day]]>
+        </date>
+        <date year="" month="12" date="6" type="HOLIDAY">
+            <![CDATA[Constitution Day]]>
+        </date>
+        <date year="" month="12" date="8" type="HOLIDAY">
+            <![CDATA[Immaculate Conception Day]]>
+        </date>
+        <date year="" month="12" date="25" type="HOLIDAY">
+            <![CDATA[Christmas Day]]>
+        </date>
+        <date year="2016" month="3" date="24" type="HOLIDAY">
+            <![CDATA[Maundy Thursday]]>
+        </date>
+        <date year="2016" month="3" date="25" type="HOLIDAY">
+            <![CDATA[Good Friday]]>
+        </date>
+        <date year="2017" month="1" date="2" type="HOLIDAY">
+            <![CDATA[New Year's Holiday]]>
+        </date>
+        <date year="2017" month="4" date="13" type="HOLIDAY">
+            <![CDATA[Maundy Thursday]]>
+        </date>
+        <date year="2017" month="4" date="14" type="HOLIDAY">
+            <![CDATA[Good Friday]]>
+        </date>
+        <date year="2018" month="3" date="29" type="HOLIDAY">
+            <![CDATA[Maundy Thursday]]>
+        </date>
+        <date year="2018" month="3" date="30" type="HOLIDAY">
+            <![CDATA[Good Friday]]>
+        </date>
+        <date year="2019" month="4" date="18" type="HOLIDAY">
+            <![CDATA[Maundy Thursday]]>
+        </date>
+        <date year="2019" month="4" date="19" type="HOLIDAY">
+            <![CDATA[Good Friday]]>
+        </date>
+        <date year="2020" month="4" date="9" type="HOLIDAY">
+            <![CDATA[Maundy Thursday]]>
+        </date>
+        <date year="2020" month="4" date="10" type="HOLIDAY">
+            <![CDATA[Good Friday]]>
+        </date>
+        <date year="2020" month="11" date="2" type="HOLIDAY">
+            <![CDATA[All Saints Day (in lieu)]]>
+        </date>
+        <date year="2020" month="12" date="7" type="HOLIDAY">
+            <![CDATA[Constitution Day (in lieu)]]>
+        </date>
+        <date year="2021" month="4" date="1" type="HOLIDAY">
+            <![CDATA[Maundy Thursday]]>
+        </date>
+        <date year="2021" month="4" date="2" type="HOLIDAY">
+            <![CDATA[Good Friday]]>
+        </date>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="CANSAT A4I" color="#8cb6ce" meeting="false" start="2021-11-02" duration="117" complete="0" thirdDate="2022-02-02" thirdDate-constraint="0" expand="true"/>
+        <task id="3" name="Lluvia de ideas" color="#33ff66" meeting="false" start="2021-11-02" duration="15" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+        <task id="5" name="Aprendizaje Módulos" color="#ff3333" meeting="false" start="2021-11-22" duration="38" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true">
+            <task id="7" name="Señalización (luz LED)" color="#ff3333" meeting="false" start="2021-11-22" duration="6" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="21" name="Comunicación en serie" color="#ff3333" meeting="false" start="2021-11-29" duration="4" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="9" name="GY87 misión primaria (p,T,h)" color="#ff3333" meeting="false" start="2021-12-02" duration="14" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="35" name="Recepción material" color="#8cb6ce" meeting="true" start="2021-12-10" duration="0" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="12" name="GY87 misión secundaria (acelerómetro - girsocopio)" color="#ff3333" meeting="false" start="2021-12-16" duration="17" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="16" name="Telemetría. LORA 868MHz. Emisor - Receptor" color="#ff3333" meeting="false" start="2021-12-23" duration="12" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="19" name="ESP32-CAM" color="#ff3333" meeting="false" start="2021-12-23" duration="12" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="26" name="GPS" color="#ff3333" meeting="false" start="2022-01-10" duration="6" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="29" name="Integración de los módulos" color="#9933ff" meeting="false" start="2022-01-17" duration="60" complete="0" thirdDate="2022-01-17" thirdDate-constraint="0" expand="true">
+            <task id="30" name="Elección del control: NODEMCU ESP8266" color="#9933ff" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2022-01-17" duration="30" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" priority="2" expand="true"/>
+            <task id="59" name="Cambio a Arduino pro Mini. problema de los pines del nodeMCU" color="#9933ff" shape="0,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0" meeting="false" start="2022-03-01" duration="29" complete="0" thirdDate="2022-01-17" thirdDate-constraint="0" expand="true"/>
+            <task id="32" name="Adaptación del programa GY87 a NodeMCU. Elección pines." color="#9933ff" meeting="false" start="2022-01-17" duration="14" complete="0" thirdDate="2022-01-17" thirdDate-constraint="1" expand="true"/>
+        </task>
+        <task id="37" name="Diseño del Módulo" color="#ffff00" meeting="false" start="2021-11-22" duration="53" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true">
+            <task id="39" name="Diseño DEF_1" color="#ffff00" meeting="false" start="2021-11-22" duration="33" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="42" name="Diseño DEF_2" color="#ffff00" meeting="false" start="2022-01-10" duration="6" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="45" name="Diseño DEF_3" color="#ffff00" shape="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" meeting="false" start="2022-01-17" duration="6" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="51" name="Diseño DEF_4" color="#ffff00" shape="0,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0" meeting="false" start="2022-01-24" duration="11" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="54" name="Diseño del paracaídas" color="#006666" meeting="false" start="2022-01-14" duration="61" complete="2" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true">
+            <task id="56" name="Recepción del material" color="#006666" meeting="true" start="2022-01-14" duration="0" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="79" name="Construcción primer paracaídas" color="#006666" meeting="false" start="2022-01-21" duration="22" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="92" name="Embarque del primer paracaídas" color="#006666" meeting="true" start="2022-02-25" duration="0" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" priority="3" expand="true"/>
+            <task id="87" name="Construcción segundo paracaídas" color="#006666" meeting="false" start="2022-02-28" duration="19" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="102" name="Pruebas" color="#006666" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2022-03-24" duration="12" complete="11" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="108" name="Placa electrónica" color="#0000ff" meeting="false" start="2022-03-18" duration="16" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true">
+            <task id="114" name="programa EasyEDA / kiCAD" color="#3333ff" meeting="false" start="2022-03-18" duration="7" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="115" name="Montaje placas: soldado y componentes" color="#8cb6ce" meeting="false" start="2022-04-01" duration="6" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="117" name="Recta final" color="#00cccc" meeting="false" start="2022-04-18" duration="5" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true">
+            <task id="122" name="Antena Yagi" color="#00cccc" meeting="false" start="2022-04-18" duration="5" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+            <task id="125" name="Últimos preparativos" color="#00cccc" meeting="false" start="2022-04-18" duration="5" complete="0" thirdDate="2021-11-02" thirdDate-constraint="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
