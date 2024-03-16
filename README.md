@@ -5,7 +5,7 @@ Proyectos CANSAT IES Seritium. Copia pública
 
 img[alt$="><"] {
   display: block;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   margin: auto;
   float: none!important;
