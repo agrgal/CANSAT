@@ -1,15 +1,9 @@
 # CANSAT
 Proyectos CANSAT IES Seritium. Copia pública
 
-![Logo alt ><](CANSAT%202022_2023/Carpeta%20que%20para%20nada%20acabo%20de%20crear%20con%20el%20logo%20y%20el%20stl%20del%20cansat/logo%20hexact%20copia.png)
+![Logo](CANSAT%202022_2023/Carpeta%20que%20para%20nada%20acabo%20de%20crear%20con%20el%20logo%20y%20el%20stl%20del%20cansat/logo%20hexact%20copia.png)
 
-img[alt$="><"] {
-  display: block;
-  max-width: 50%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
+<img style="float:left; width:50%; height:auto;" src="CANSAT%202022_2023/Carpeta%20que%20para%20nada%20acabo%20de%20crear%20con%20el%20logo%20y%20el%20stl%20del%20cansat/logo%20hexact%20copia.png">
 
 # Reconocimiento
 [CANSAT IES Seritium](https://github.com/CANSAT) © 2023 by Alejandro Chacón, David González, Antonio Jesús Suarez, Adrián Durán, Miriam Ganaza e Iker Espinosa is licensed under [CC BY-NC-SA 4.0 ](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
