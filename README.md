@@ -4,7 +4,7 @@
 Proyectos CANSAT IES Seritium, año 2022 y 2023, presentados a los lanzamientos en la comunidad autónoma de Andalucía en Coria del Río y Antequera. Copia pública
 
 # Reconocimiento
-[CANSAT IES Seritium](https://github.com/CANSAT) © 2023 by Alejandro Chacón, David González, Antonio Jesús Suarez, Adrián Durán, Miriam Ganaza e Iker Espinosa is licensed under [CC BY-NC-SA 4.0 ](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+[CANSAT IES Seritium](https://github.com/CANSAT) © 2023 by Alejandro Chacón, David González, Antonio Jesús Suarez, Adrián Durán, Miriam Ganaza, Iker Espinosa y Aurelio Gallardo is licensed under [CC BY-NC-SA 4.0 ](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 # ¿Qué es?
 El proyecto CANSAT (HEXACT en 2023, A4I en 2022) llevado a cabo por los alumnos Alejandro Chacón, David González, Antonio Jesús Suarez, Adrián Durán, Miriam Ganaza e Iker Espinosa del IES Seritium. Como mentor, Aurelio Gallardo. 
