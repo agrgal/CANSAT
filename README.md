@@ -10,7 +10,7 @@ Proyectos CANSAT IES Seritium, año 2022 y 2023, presentados a los lanzamientos 
 El proyecto CANSAT (HEXACT en 2023, A4I en 2022) llevado a cabo por los alumnos Alejandro Chacón, David González, Antonio Jesús Suarez, Adrián Durán, Miriam Ganaza e Iker Espinosa del IES Seritium. Como mentor, Aurelio Gallardo. 
 
 # ¿Qué contiene este documento?
-Informe crítico de diseño y todo aquel material elaborado para llevar a cabo el proyecto (diseño, pruebas, programación, informes, resultados) de nuestra participación en las pruebas andaluzas de los años 2021-2022 y 2022-2023
+Informe crítico de diseño y todo aquel material elaborado para llevar a cabo el proyecto (diseño, pruebas, programación, informes, resultados) de nuestra participación en las pruebas andaluzas de los años 2022 y 2023
 
 # Material gráfico
 + [Vídeo presentación del proyecto 2023](https://youtu.be/i_LCr1teCZs?si=MErtpM3VWjnIBio4)
